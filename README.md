@@ -13,8 +13,10 @@ My collection of development resources.
   - [Youtube](#youtube)
   - [Talks](#talks)
   - [Articles](#articles)
-## Tools
+- [Tools](#tools)
   - [Slider](#slider)
+- [Fun](#fun)
+  - [Games](#games)
 
 ## Books
 
@@ -52,3 +54,16 @@ My collection of development resources.
 
 - [slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
 - [flickity](https://flickity.metafizzy.co/) - Touch, responsive, flickable carousels
+
+## Fun
+
+### Games
+- [Grid Garden](http://cssgridgarden.com/) - A game for learning CSS grid layout
+- [Flexbox Froggy](https://flexboxfroggy.com/) - A game for learning CSS flexbox
+- [Flexbox Defense](http://www.flexboxdefense.com/) - Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!
+- [flexbox zombies](https://flexboxzombies.com/) - Master Flexbox layout: a story course by geddski
+- [Grid Critters](http://www.gridcritters.com/) - Completely master CSS Grid once and for all by playing Grid Critters: the Grid Mastery Game.
+- [CSS Diner](http://flukeout.github.io/) - A fun game to help you learn and practice CSS selectors.
+- [CodinGame](https://www.codingame.com) - Solve challenging coding problems fun games. Supports all programming languages.
+- [Code Combat](https://codecombat.com) - CodeCombat is a platform for students to learn computer science while playing through a real game. It is a community project, with hundreds of players volunteering to create levels. Supports Java, JavaScript, Python, Lua, CoffeeScript.
+- [Screeps](https://screeps.com/) - Learn to code JavaScript by playing game. This game claims to be the world’s first MMO strategy sandbox game for programmers.
