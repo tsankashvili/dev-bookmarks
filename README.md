@@ -42,6 +42,7 @@ My collection of development resources.
 - [keyframers](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA) - An animated, collaborative coding live stream by @davidkpiano & @shshaw.
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - DevTips is a weekly show for YOU who want to be inspired and learn about programming
 - [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) - DevTips is a weekly show for YOU who want to be inspired and learn about programming
+- [The 10 Days of JavaScript](https://www.youtube.com/watch?v=dc-2t26Vuhs&list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs) - JavaScript course by Brad Schiff
 
 ### Talks
 - [CSS Variable Secrets](https://www.youtube.com/watch?v=UQRSaG1hQ20) - This talk will show how CSS Variables are much more powerful than static preprocessor variables and can be used today without compromising progressive enhancement
