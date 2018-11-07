@@ -47,6 +47,8 @@ My collection of development resources.
 
 ### Talks
 - [ShopTalk](https://shoptalkshow.com/) - An internet radio show about the internet starring Dave Rupert and Chris Coyier.
+- [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
+
 - [CSS Variable Secrets](https://www.youtube.com/watch?v=UQRSaG1hQ20) - This talk will show how CSS Variables are much more powerful than static preprocessor variables and can be used today without compromising progressive enhancement
 
 ### Articles
