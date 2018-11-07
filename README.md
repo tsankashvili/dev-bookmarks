@@ -9,6 +9,7 @@ My collection of development resources.
 - [Books](#books)
 - [Courses](#courses)
 - [Learning Resources](#learning-resources)
+  - [Courses](#courses)
   - [Videos](#videos)
   - [Youtube](#youtube)
   - [Talks](#talks)
@@ -45,6 +46,7 @@ My collection of development resources.
 - [The 10 Days of JavaScript](https://www.youtube.com/watch?v=dc-2t26Vuhs&list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs) - JavaScript course by Brad Schiff
 
 ### Talks
+- [ShopTalk](https://shoptalkshow.com/) - An internet radio show about the internet starring Dave Rupert and Chris Coyier.
 - [CSS Variable Secrets](https://www.youtube.com/watch?v=UQRSaG1hQ20) - This talk will show how CSS Variables are much more powerful than static preprocessor variables and can be used today without compromising progressive enhancement
 
 ### Articles
