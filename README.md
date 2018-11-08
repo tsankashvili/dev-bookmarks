@@ -6,9 +6,8 @@ My collection of development resources.
 
 ## Contents
 
-- [Books](#books)
-- [Courses](#courses)
 - [Learning Resources](#learning-resources)
+  - [Books](#books)
   - [Courses](#courses)
   - [Videos](#videos)
   - [Youtube](#youtube)
@@ -20,12 +19,12 @@ My collection of development resources.
   - [Games](#games)
 - [Jobs](#jobs)
 
+## Learning Resources
+
 ## Books
 
 - [Jump Start Sass](https://www.sitepoint.com/premium/books/jump-start-sass) - Get a Jump Start on the popular CSS preprocessor Sass today! Book by Hugo Giraudel and Miriam Suzanne.
 - [CSS Secrets](https://www.goodreads.com/book/show/20830437-css-secrets) -  Better Solutions to Everyday Web Design Problems.
-
-## Learning Resources
 
 ### Courses
 
