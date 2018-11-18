@@ -18,6 +18,8 @@ My collection of development resources.
 - [Fun](#fun)
   - [Games](#games)
 - [Jobs](#jobs)
+- [Inspiration](#inspiration)
+  - [developers](#developers)
 
 ## Learning Resources
 
@@ -82,3 +84,10 @@ My collection of development resources.
 - [css-tricks](https://css-tricks.com/jobs/) - Jobs for Front End Developers and Designers
 - [stackoverflow](https://stackoverflow.com/jobs) - Developer Jobs, Programming Jobs
 - [idealist](https://www.idealist.org) - Idealist connects millions of idealists – people who want to do good – with opportunities for action and collaboration all over the world
+
+## Inspiration
+
+### Developers
+
+- [Hugo Giraudel](https://twitter.com/HugoGiraudel) - French front-end developer based in Berlin https://hugogiraudel.com/
+- [Sarah Drasner](https://twitter.com/sarah_edo) - Award-winning speaker. JS @Microsoft. @vuejs Core Team, Writer @css, co-organizer @ConcatenateConf http://codepen.io/sdras  http://github.com/sdras
