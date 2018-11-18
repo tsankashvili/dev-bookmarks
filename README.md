@@ -12,7 +12,6 @@ My collection of development resources.
   - [Videos](#videos)
   - [Youtube](#youtube)
   - [Talks](#talks)
-  - [Blog](#blog)
   - [Articles](#articles)
 - [Tools](#tools)
   - [Slider](#slider)
@@ -51,11 +50,11 @@ My collection of development resources.
 - [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
 - [CSS Variable Secrets](https://www.youtube.com/watch?v=UQRSaG1hQ20) - This talk will show how CSS Variables are much more powerful than static preprocessor variables and can be used today without compromising progressive enhancement
 
-### Blogs
-- [https://scotch.io](https://scotch.io/) - cssdb is a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
-
 ### Articles
 - [What’s next for CSS?](https://cssdb.org/) - cssdb is a comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
+- [scotch](https://scotch.io/) - fun and practical web development. not just the code, but the reasons behind it
+- [codrops](https://tympanus.net/codrops/) - Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
+- [Superhero.js](http://superherojs.com/) - Creating, testing and maintaining a large JavaScript code base is not easy — especially since great resources on how to do this are hard to find.
 
 ## Tools
 
