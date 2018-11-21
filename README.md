@@ -15,6 +15,7 @@ My collection of development resources.
   - [Articles](#articles)
 - [Tools](#tools)
   - [Slider](#slider)
+  - [online tools](#online-tools)
 - [Fun](#fun)
   - [Games](#games)
 - [Jobs](#jobs)
@@ -64,6 +65,11 @@ My collection of development resources.
 
 - [slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
 - [flickity](https://flickity.metafizzy.co/) - Touch, responsive, flickable carousels
+
+### Online Tools
+- [PageSpeed](https://developers.google.com/speed/) - Analyze your site performance
+- [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project
+- [codesandbox](https://codesandbox.io/) - CodeSandbox is an online code editor with a focus on creating and sharing web application projects.
 
 ## Fun
 
