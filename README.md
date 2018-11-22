@@ -58,6 +58,7 @@ My collection of development resources.
 - [scotch](https://scotch.io/) - fun and practical web development. not just the code, but the reasons behind it
 - [codrops](https://tympanus.net/codrops/) - Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 - [Superhero.js](http://superherojs.com/) - Creating, testing and maintaining a large JavaScript code base is not easy — especially since great resources on how to do this are hard to find.
+- [freefrontend](https://freefrontend.com/) - Free hand-picked HTML and CSS code examples, tutorials and article
 
 ## Tools
 
