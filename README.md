@@ -31,6 +31,8 @@ My collection of development resources.
 
 ### Courses
 
+- [frontendmasters](https://frontendmasters.com/) - Advance your skills with in-depth, modern JavaScript and front-end engineering courses.
+- [egghead](https://egghead.io/) - Concise screencast video tutorials that cover the best tools, libraries, and frameworks that modern javascript web developers can use to code more effectively and stay current.
 - [pluralsight](https://www.pluralsight.com/) - The technology learning platform that provides web development.
 - [laracasts](https://laracasts.com/) - Learn practical, modern web development, through expert screencasts.
 - [Udemy](https://www.udemy.com/) - Udemy.com is an online learning platform. It is aimed at professional adults.
