@@ -68,6 +68,7 @@ My collection of development resources.
 
 - [slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
 - [flickity](https://flickity.metafizzy.co/) - Touch, responsive, flickable carousels
+- [swiper](https://github.com/surmon-china/vue-awesome-swiper) - Swiper component for @vuejs
 
 ### Online Tools
 - [PageSpeed](https://developers.google.com/speed/) - Analyze your site performance
