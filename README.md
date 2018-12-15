@@ -51,6 +51,7 @@ My collection of development resources.
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - DevTips is a weekly show for YOU who want to be inspired and learn about programming
 - [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) - DevTips is a weekly show for YOU who want to be inspired and learn about programming
 - [The 10 Days of JavaScript](https://www.youtube.com/watch?v=dc-2t26Vuhs&list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs) - JavaScript course by Brad Schiff
+- [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Learn what's now possible in graphic design on the web — layout, CSS Grid, and more. A series for designers and web developers.
 
 ### Talks
 - [ShopTalk](https://shoptalkshow.com/) - An internet radio show about the internet starring Dave Rupert and Chris Coyier.
