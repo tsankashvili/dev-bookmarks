@@ -35,6 +35,8 @@ My collection of development resources.
 
 - [frontendmasters](https://frontendmasters.com/) - Advance your skills with in-depth, modern JavaScript and front-end engineering courses.
 - [egghead](https://egghead.io/) - Concise screencast video tutorials that cover the best tools, libraries, and frameworks that modern javascript web developers can use to code more effectively and stay current.
+- [wesbos](https://wesbos.com/courses/) - awesome Articles, Videos and Tutorials
+
 - [pluralsight](https://www.pluralsight.com/) - The technology learning platform that provides web development.
 - [laracasts](https://laracasts.com/) - Learn practical, modern web development, through expert screencasts.
 - [Udemy](https://www.udemy.com/) - Udemy.com is an online learning platform. It is aimed at professional adults.
@@ -79,6 +81,7 @@ My collection of development resources.
 - [PageSpeed](https://developers.google.com/speed/) - Analyze your site performance
 - [gitignore](https://www.gitignore.io/) - Create useful .gitignore files for your project
 - [codesandbox](https://codesandbox.io/) - CodeSandbox is an online code editor with a focus on creating and sharing web application projects.
+- [tunnelbear](https://www.tunnelbear.com/) - TunnelBear: Secure VPN Service
 
 ### Project Management
 - [Trello](https://trello.com/) - Trello is a web-based project management application
