@@ -65,6 +65,7 @@ My collection of development resources.
 - [Superhero.js](http://superherojs.com/) - Creating, testing and maintaining a large JavaScript code base is not easy — especially since great resources on how to do this are hard to find.
 - [freefrontend](https://freefrontend.com/) - Free hand-picked HTML and CSS code examples, tutorials and article
 - [bitsofco](https://bitsofco.de/) -  Articles on Frontend Development. All articles are written by Ire Aderinokun, Frontend Developer and User Interface Designer.
+- [flaviocopes](https://flaviocopes.com/) - I write tutorials for JavaScript developers
 
 ## Tools
 
