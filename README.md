@@ -105,6 +105,7 @@ My collection of development resources.
 - [css-tricks](https://css-tricks.com/jobs/) - Jobs for Front End Developers and Designers
 - [stackoverflow](https://stackoverflow.com/jobs) - Developer Jobs, Programming Jobs
 - [idealist](https://www.idealist.org) - Idealist connects millions of idealists – people who want to do good – with opportunities for action and collaboration all over the world
+- [smashingmagazine](https://www.smashingmagazine.com/jobs/) - Smashing Jobs is here to help designers and developers alike to find jobs and connect with great companies.
 
 ## Inspiration
 
