@@ -68,6 +68,7 @@ My collection of development resources.
 - [freefrontend](https://freefrontend.com/) - Free hand-picked HTML and CSS code examples, tutorials and article
 - [bitsofco](https://bitsofco.de/) -  Articles on Frontend Development. All articles are written by Ire Aderinokun, Frontend Developer and User Interface Designer.
 - [flaviocopes](https://flaviocopes.com/) - I write tutorials for JavaScript developers
+- [benrobertson](https://benrobertson.io/blog/) - Ben Robertson is front-end web developer writing about front end development and web accessibility.
 
 ## Tools
 
@@ -106,6 +107,7 @@ My collection of development resources.
 - [stackoverflow](https://stackoverflow.com/jobs) - Developer Jobs, Programming Jobs
 - [idealist](https://www.idealist.org) - Idealist connects millions of idealists – people who want to do good – with opportunities for action and collaboration all over the world
 - [smashingmagazine](https://www.smashingmagazine.com/jobs/) - Smashing Jobs is here to help designers and developers alike to find jobs and connect with great companies.
+- [Front End Remote Jobs](https://frontendremotejobs.com/) - fully remote jobs for front end developers
 
 ## Inspiration
 
