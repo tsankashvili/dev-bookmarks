@@ -13,6 +13,7 @@ My collection of development resources.
   - [Youtube](#youtube)
   - [Talks](#talks)
   - [Articles](#articles)
+  - [Websites](#websites)  
 - [Tools](#tools)
   - [Slider](#slider)
   - [online tools](#online-tools)
@@ -69,6 +70,9 @@ My collection of development resources.
 - [bitsofco](https://bitsofco.de/) -  Articles on Frontend Development. All articles are written by Ire Aderinokun, Frontend Developer and User Interface Designer.
 - [flaviocopes](https://flaviocopes.com/) - I write tutorials for JavaScript developers
 - [benrobertson](https://benrobertson.io/blog/) - Ben Robertson is front-end web developer writing about front end development and web accessibility.
+
+### Websites
+- [Know it all](https://know-it-all.io/) - The goal of know-it-all is to help you discover things that you don't know about web development.
 
 ## Tools
 
