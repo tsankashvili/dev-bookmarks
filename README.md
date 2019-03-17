@@ -112,6 +112,7 @@ My collection of development resources.
 - [idealist](https://www.idealist.org) - Idealist connects millions of idealists – people who want to do good – with opportunities for action and collaboration all over the world
 - [smashingmagazine](https://www.smashingmagazine.com/jobs/) - Smashing Jobs is here to help designers and developers alike to find jobs and connect with great companies.
 - [Front End Remote Jobs](https://frontendremotejobs.com/) - fully remote jobs for front end developers
+- [Alligator.io job board](https://jobs.alligator.io/) - The job board for front-end & full stack web developers. Find remote, local or freelance jobs.
 - [remote4me](https://remote4me.com/) - an aggregator for remote jobs
 
 ## Inspiration
