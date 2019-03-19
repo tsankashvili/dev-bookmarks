@@ -42,6 +42,7 @@ My collection of development resources.
 - [laracasts](https://laracasts.com/) - Learn practical, modern web development, through expert screencasts.
 - [Udemy](https://www.udemy.com/) - Udemy.com is an online learning platform. It is aimed at professional adults.
 - [learning.oreilly.com](learning.oreilly.com) - Technology and Business Training
+- [Interneting Is Hard](https://internetingishard.com/) - Web Development Tutorials For Complete Beginners
 
 ### Videos
 
