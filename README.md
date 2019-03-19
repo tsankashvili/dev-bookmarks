@@ -41,6 +41,7 @@ My collection of development resources.
 - [pluralsight](https://www.pluralsight.com/) - The technology learning platform that provides web development.
 - [laracasts](https://laracasts.com/) - Learn practical, modern web development, through expert screencasts.
 - [Udemy](https://www.udemy.com/) - Udemy.com is an online learning platform. It is aimed at professional adults.
+- [learning.oreilly.com](learning.oreilly.com) - Technology and Business Training
 
 ### Videos
 
