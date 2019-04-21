@@ -14,6 +14,7 @@ My collection of development resources.
   - [Talks](#talks)
   - [Articles](#articles)
   - [Websites](#websites)  
+- [Conferences](#conferences)
 - [Tools](#tools)
   - [Slider](#slider)
   - [online tools](#online-tools)
@@ -75,6 +76,13 @@ My collection of development resources.
 
 ### Websites
 - [Know it all](https://know-it-all.io/) - The goal of know-it-all is to help you discover things that you don't know about web development.
+
+## Conferences
+
+- [Upcoming conferences](https://conferences.css-tricks.com/) - CSS-Tricks Conference Listing Site
+- [confs.tech](https://confs.tech/) - Find your next tech conference
+- [CSSconf](http://cssconf.org/) - CSSconf is a conference dedicated to the designers and developers who build the world’s most engaging user interfaces
+- [dotConferences](https://www.dotconferences.com/) - dotConferences is a series of high-caliber developer events in Paris.
 
 ## Tools
 
