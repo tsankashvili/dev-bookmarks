@@ -116,6 +116,7 @@ My collection of development resources.
 - [CodinGame](https://www.codingame.com) - Solve challenging coding problems fun games. Supports all programming languages.
 - [Code Combat](https://codecombat.com) - CodeCombat is a platform for students to learn computer science while playing through a real game. It is a community project, with hundreds of players volunteering to create levels. Supports Java, JavaScript, Python, Lua, CoffeeScript.
 - [Screeps](https://screeps.com/) - Learn to code JavaScript by playing game. This game claims to be the world’s first MMO strategy sandbox game for programmers.
+- [Design Patterns](http://designpatternsgame.com/) - Design Patterns Game implemented in JavaScript
 
 ## Jobs
 
