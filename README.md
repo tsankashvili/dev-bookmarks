@@ -75,6 +75,7 @@ My collection of development resources.
 - [flaviocopes](https://flaviocopes.com/) - I write tutorials for JavaScript developers
 - [benrobertson](https://benrobertson.io/blog/) - Ben Robertson is front-end web developer writing about front end development and web accessibility.
 - [CodyHouse](https://codyhouse.co/) - CodyHouse is an arsenal of production-ready components and tools that empower web designers to craft digital experiences faster and better.
+- [webplatform](https://webplatform.news) - Daily content for web developers, funded by its readers.
 
 ### Websites
 - [Know it all](https://know-it-all.io/) - The goal of know-it-all is to help you discover things that you don't know about web development.
