@@ -14,7 +14,7 @@ My collection of development resources.
   - [Talks](#talks)
   - [Articles](#articles)
 - [Websites](#websites)
-  - [Fonts](#fonts)
+  - [Typography](#typography)
 - [Conferences](#conferences)
 - [Tools](#tools)
   - [Slider](#slider)
@@ -85,7 +85,7 @@ My collection of development resources.
 - [JavaScript Event KeyCodes](http://keycode.info/) - Keycode testing tool - which keys map to which keycodes?
 - [Lapa Ninja](https://www.lapa.ninja/) - The best landing page design inspiration from around the web
 
-### Fonts
+### Typography
 - [FontPair](https://fontpair.co/) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs
 - [Typography made easy](https://www.canva.com/font-combinations/) - Find a font combination for your design needs
 - [typespiration](http://typespiration.com/) - Free inspirational web font combinations with color palettes and ready-to-use HTML/CSS code
