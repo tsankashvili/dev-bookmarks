@@ -13,7 +13,8 @@ My collection of development resources.
   - [Youtube](#youtube)
   - [Talks](#talks)
   - [Articles](#articles)
-  - [Websites](#websites)  
+- [Websites](#websites)
+  - [Fonts](#fonts)
 - [Conferences](#conferences)
 - [Tools](#tools)
   - [Slider](#slider)
@@ -79,12 +80,15 @@ My collection of development resources.
 - [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
 
 
-### Websites
+## Websites
 - [Know it all](https://know-it-all.io/) - The goal of know-it-all is to help you discover things that you don't know about web development.
 - [JavaScript Event KeyCodes](http://keycode.info/) - Keycode testing tool - which keys map to which keycodes?
 - [Lapa Ninja](https://www.lapa.ninja/) - The best landing page design inspiration from around the web
+
+### Fonts
 - [FontPair](https://fontpair.co/) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs
 - [Typography made easy](https://www.canva.com/font-combinations/) - Find a font combination for your design needs
+- [typespiration](http://typespiration.com/) - Free inspirational web font combinations with color palettes and ready-to-use HTML/CSS code
 
 
 ## Conferences
