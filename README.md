@@ -82,6 +82,7 @@ My collection of development resources.
 ### Websites
 - [Know it all](https://know-it-all.io/) - The goal of know-it-all is to help you discover things that you don't know about web development.
 - [JavaScript Event KeyCodes](http://keycode.info/) - Keycode testing tool - which keys map to which keycodes?
+- [Lapa Ninja](https://www.lapa.ninja/) - The best landing page design inspiration from around the web
 
 
 ## Conferences
