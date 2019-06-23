@@ -15,6 +15,7 @@ My collection of development resources.
   - [Articles](#articles)
 - [Websites](#websites)
   - [Typography](#typography)
+  - [Awards](#awards)
 - [Conferences](#conferences)
 - [Tools](#tools)
   - [Slider](#slider)
@@ -91,6 +92,8 @@ My collection of development resources.
 - [typespiration](http://typespiration.com/) - Free inspirational web font combinations with color palettes and ready-to-use HTML/CSS code
 - [betterwebtype](https://betterwebtype.com/) - Web typography for web designers and web developers
 
+### Awards
+- [Pablo The Flamingo](https://pablotheflamingo.com/) - Come and party with Pablo the Flamingo! Whatever you do, don't stop the music.
 
 ## Conferences
 
