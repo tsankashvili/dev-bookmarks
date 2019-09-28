@@ -13,7 +13,7 @@ My collection of development resources.
   - [Youtube](#youtube)
   - [Talks](#talks)
   - [Articles](#articles)
-  - [Websites](#websites)  
+  - [Websites](#websites)
 - [Tools](#tools)
   - [Slider](#slider)
   - [online tools](#online-tools)
@@ -113,6 +113,7 @@ My collection of development resources.
 - [smashingmagazine](https://www.smashingmagazine.com/jobs/) - Smashing Jobs is here to help designers and developers alike to find jobs and connect with great companies.
 - [Front End Remote Jobs](https://frontendremotejobs.com/) - fully remote jobs for front end developers
 - [remote4me](https://remote4me.com/) - an aggregator for remote jobs
+- [kickresume](https://www.kickresume.com) - Create a standout resume, cover letter and personal website in minutes.
 
 ## Inspiration
 
