@@ -91,6 +91,7 @@ My collection of development resources.
 - [Typography made easy](https://www.canva.com/font-combinations/) - Find a font combination for your design needs
 - [typespiration](http://typespiration.com/) - Free inspirational web font combinations with color palettes and ready-to-use HTML/CSS code
 - [betterwebtype](https://betterwebtype.com/) - Web typography for web designers and web developers
+- [variable fonts](https://www.variable-fonts.com/) - Fontsmith Variable Fonts | Interactive Microsite
 
 ### Awards
 - [Pablo The Flamingo](https://pablotheflamingo.com/) - Come and party with Pablo the Flamingo! Whatever you do, don't stop the music.
