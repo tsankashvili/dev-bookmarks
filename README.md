@@ -13,6 +13,7 @@ My collection of development resources.
   - [Youtube](#youtube)
   - [Talks](#talks)
   - [Articles](#articles)
+- [libraries and frameworks](#libraries-frameworks)
 - [Websites](#websites)
   - [Typography](#typography)
   - [Awards](#awards)
@@ -80,6 +81,8 @@ My collection of development resources.
 - [webplatform](https://webplatform.news) - Daily content for web developers, funded by its readers.
 - [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
 
+## libraries-frameworks
+- [Zdog](https://zzz.dog/) - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
 
 ## Websites
 - [Know it all](https://know-it-all.io/) - The goal of know-it-all is to help you discover things that you don't know about web development.
