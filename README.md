@@ -41,6 +41,7 @@ My collection of development resources.
 - [frontendmasters](https://frontendmasters.com/) - Advance your skills with in-depth, modern JavaScript and front-end engineering courses.
 - [egghead](https://egghead.io/) - Concise screencast video tutorials that cover the best tools, libraries, and frameworks that modern javascript web developers can use to code more effectively and stay current.
 - [wesbos](https://wesbos.com/courses/) - awesome Articles, Videos and Tutorials
+- [Servers for Hackers](https://serversforhackers.com/) - What programmers need to know about servers
 
 - [pluralsight](https://www.pluralsight.com/) - The technology learning platform that provides web development.
 - [laracasts](https://laracasts.com/) - Learn practical, modern web development, through expert screencasts.
